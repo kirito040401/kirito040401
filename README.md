@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Alfiansyah Saragih</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
+<h3 align="center">I am a Bachelor of Information Systems graduate from STMIK Triguna Dharma. I have good Web Developer, BackEnd Development, time management and computer operating skills. To work well, I often practice working on web projects, updating information about web developments and improvising the latest programming languages.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
