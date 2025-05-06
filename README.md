@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋, I'm Aditya Alfiansyah Saragih<br><br>I am a Bachelor of Information Systems graduate from STMIK Triguna Dharma. <br>I have good Web Developer, BackEnd Development, <br>time management and computer operating skills. To work well, <br>I often practice working on web projects, <br>updating information about web developments and improvising <br>the latest programming languages.
+# Hi 👋, I'm Aditya Alfiansyah Saragih
+I am a Bachelor of Information Systems graduate from STMIK Triguna Dharma. I have good Web Developer, BackEnd Development, time management and computer operating skills. To work well, I often practice working on web projects, updating information about web developments and improvising the latest programming languages.
 
 
 ## 🌐 Socials:
